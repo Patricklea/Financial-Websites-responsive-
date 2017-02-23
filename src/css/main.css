@@ -765,7 +765,7 @@ footer ul li .icon {
 	display: inline-block;
 	text-indent: -999rem;
 	margin-right: 1.5rem;
-	background: url(../img/cert1.png) no-repeat;
+	/*background: url(../img/cert1.png) no-repeat;*/
 	background-size: 932px 894px;
 	overflow: hidden;
 }
